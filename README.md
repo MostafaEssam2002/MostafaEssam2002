@@ -1,171 +1,120 @@
-<h1 align="center">Hi there, I'm Mostafa Essam 👋</h1>
-<h3 align="center">Full-Stack Web Developer | NestJS • Laravel • React.js</h3>
+# Hi there, I'm Mustafa Essam 👋
+### Full-Stack Web Developer & Backend System Architect
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0E0&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;NestJS+%7C+Laravel+%7C+React.js;RESTful+APIs+%26+Multi-Role+Systems;E-Learning+%7C+E-Commerce+%7C+Business+Apps" alt="Typing SVG" />
-</p>
-
-<p align="center">
+<p align="left">
+  <a href="https://mustafa-essam.ai.studio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-mustafa--essam.ai.studio-bac964?style=for-the-badge&labelColor=222222" alt="Live Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/mostafa-essam-384413203/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Essam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222222" alt="LinkedIn" />
   </a>
   <a href="mailto:mostafaessam9511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mostafaessam9511@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222" alt="Email" />
   </a>
   <a href="https://github.com/MostafaEssam2002">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-MostafaEssam2002-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=222222" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **results-driven Full-Stack Web Developer** who loves turning ideas into scalable, production-ready systems. I specialize in **NestJS**, **Node.js**, **Laravel**, and **React.js**, with a strong focus on clean architecture, RESTful API design, and database optimization.
+I am a results-oriented **Full-Stack Web Developer** specializing in **scalable backend architectures**, **database optimization**, and **high-performance web platforms**. 
 
-- 🔭 Currently building **LMS platforms**, **ERP systems**, and **Islamic content applications**
-- 🌱 Always leveling up in **GraphQL, System Design, and Security**
-- 💬 Ask me about **NestJS, Prisma, RBAC, WebSockets, or API architecture**
-- 🌍 Based in **Menofia, Egypt**
-- ⚡ Fun fact: I once shipped a 22-entity LMS backend with sub-200ms response times
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,nodejs,express,nestjs,laravel,react,html,css,bootstrap,mysql,mongodb,redis,prisma,docker,git,github,postman,linux,graphql&perline=11" />
-</p>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-`JavaScript` `TypeScript` `Python` `PHP` `C++`
-
-**Backend**
-`Node.js` `Express.js` `NestJS` `Laravel`
-
-**Frontend**
-`React.js` `HTML5` `CSS3` `Bootstrap`
-
-</td>
-<td valign="top" width="50%">
-
-**Databases**
-`MySQL` `SQL Server` `MongoDB` `Redis` `Prisma ORM`
-
-**Auth & Security**
-`JWT` `OAuth` `RBAC` `OWASP Top 10`
-
-**Real-Time & Tools**
-`WebSocket` `Socket.io` `Docker` `Git` `Swagger`
-
-</td>
-</tr>
-</table>
+- 🎓 **Education**: Bachelor's Degree in Computer Science from **Faculty of Electronic Engineering, Menoufia University** (GPA: **3.2**).
+- 💼 **Focus**: Architecting resilient multi-module ERP systems, real-time event-driven applications (WebSockets), and secure RESTful APIs.
+- ⚡ **Key Metric**: Successfully designed database architectures with **sub-200ms query latency** under high-frequency workloads and **100+ concurrent users**.
+- 🛠️ **Best Practices**: Strong adherent to **OOP, SOLID principles, Clean Architecture, Design Patterns, and Database Normalization/Indexing**.
+- 📍 **Location**: Menofia, Egypt · Open to Remote & On-site Opportunities.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Technical Arsenal
 
-<table>
-<tr>
-<td width="50%">
+<div align="left">
 
-**🕌 Zakker — Islamic Web Platform**
-`React 19` `React Router` `SCSS`
+### 🌐 Backend & Architecture
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-A full-featured platform combining a page-based Quran reader (audio, tafsir, ayah pinning), Azkar counter, and live Islamic radio streaming. Smart "Wird" reading-plan engine with automated scheduling and progress tracking via custom hooks, plus geolocation-based prayer times with live countdowns.
+### 💻 Languages & Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP_%26_SOLID-4A5568?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-2B6CB0?style=flat-square)
 
-</td>
-<td width="50%">
+### 🎨 Frontend Development
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**🎓 Ertiqa — Educational Management System**
-`NestJS` `Prisma` `MySQL` `Socket.io`
+### 🗄️ Databases & ORM
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-Scalable LMS with 22+ entities and 60+ REST APIs supporting multi-role access, real-time messaging, quiz scoring, subscription payments (Paymob), and containerized deployment. Sub-200ms response times at 100+ concurrent users.
+### 🔒 Security, DevOps & Tools
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC / CASL](https://img.shields.io/badge/RBAC_(CASL)-805AD5?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🚗 Car Showroom ERP System**
-`NestJS` `TypeScript` `Prisma` `SQL`
-
-End-to-end ERP covering customers, dealers, inventory, sales, installments, and expenses — with Arabic language support and automated backups, improving operational efficiency by ~40%.
-
-</td>
-<td width="50%">
-
-**🛒 E-Commerce Backend System**
-`Laravel` `MySQL`
-
-Multilingual (AR/EN, RTL) e-commerce platform with 13+ entities, 50+ APIs, RBAC for 3 roles, analytics dashboard, and a 5-star review system — 30% faster data retrieval via query optimization.
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>📁 More Projects</summary>
-<br>
-
-**[Wazifa — Job Board Platform](https://github.com/MostafaEssam2002/wazifa)** (`Laravel` `MySQL` `Bootstrap`)
-Full-stack recruitment platform connecting employers and candidates with job posting management, resume uploads, application tracking, and an admin approval workflow.
-
-</details>
+</div>
 
 ---
 
-### 📌 Pinned Repositories
+## 🚀 Featured Engineering Projects
+
+| Project | Tech Stack | Highlights & Architecture | Links |
+| :--- | :--- | :--- | :--- |
+| **Ertiqa – LMS Platform** | `NestJS` `Prisma` `MySQL` `Socket.io` `Docker` | • 22+ normalized entities with cascading deletes<br>• 60+ secure RESTful APIs with CASL RBAC & JWT<br>• **Sub-200ms query latency** under 100+ concurrent users<br>• Real-time messaging & Paymob integration | [Code](https://github.com/MostafaEssam2002/center_education) |
+| **Car Showroom ERP** | `NestJS` `TypeScript` `Prisma` `SQL` `RBAC` | • Multi-module dealership ERP (Sales, Inventory, Installments)<br>• **~40% operational efficiency boost**<br>• Automated database backups & Arabic localization | [Profile](https://github.com/MostafaEssam2002) |
+| **E-Commerce Backend** | `Laravel` `MySQL` `RESTful APIs` `RBAC` | • 13+ relational models, 50+ RESTful APIs<br>• Cart, checkout & discount calculation engine<br>• **30% query speedup** via indexing & caching | [Code](https://github.com/MostafaEssam2002/E-commerce) |
+| **Zakker Islamic Platform** | `React 19` `SCSS` `REST APIs` `Custom Hooks` | • Interactive page-based Quran reader & audio sync<br>• Custom Wird scheduling engine with makeup logic<br>• Integrated 4+ external APIs with fallback handling | [Live Demo](https://zakker-ten.vercel.app/) · [Code](https://github.com/MostafaEssam2002/azkar) |
+| **Wazifa – Job Board** | `Laravel` `MySQL` `Bootstrap` `JavaScript` | • Candidate pipeline tracking & resume upload system<br>• Multi-role isolation & admin content moderation workflow | [Code](https://github.com/MostafaEssam2002/wazifa) |
+| **Computer Vision Suite** | `Python` `OpenCV` `scikit-image` `CustomTkinter` | • 15+ edge detection algorithms (Canny, Sobel, LoG)<br>• Hough transforms, noise modeling, real-time histograms | [Code](https://github.com/MostafaEssam2002/Image_processing_project) |
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/MostafaEssam2002/Restaurant-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=Restaurant-Website&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/MostafaEssam2002/Feliciano_Restaurant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=Feliciano_Restaurant&theme=tokyonight&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MostafaEssam2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=18181b&title_color=bac964&icon_color=bac964&text_color=e4e4e7" alt="Mustafa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaEssam2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=18181b&title_color=bac964&text_color=e4e4e7" alt="Top Languages" width="48%" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/MostafaEssam2002/Global-Weather-News-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=Global-Weather-News-Dashboard&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/MostafaEssam2002/Image_processing_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=Image_processing_project&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/MostafaEssam2002/SCRUD_PHP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=SCRUD_PHP&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/MostafaEssam2002/wazifa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=wazifa&theme=tokyonight&hide_border=true" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaEssam2002&theme=tokyonight&hide_border=true&background=18181b&ring=bac964&fire=bac964&currStreakLabel=bac964" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📬 Let's Connect & Collaborate
+
+- 🌐 **Portfolio Website**: [mustafa-essam.ai.studio](https://mustafa-essam.ai.studio/)
+- 💼 **LinkedIn**: [linkedin.com/in/mostafa-essam-384413203](https://www.linkedin.com/in/mostafa-essam-384413203/)
+- 📧 **Direct Email**: [mostafaessam9511@gmail.com](mailto:mostafaessam9511@gmail.com)
+- 📱 **Phone / WhatsApp**: [+20 111 860 6952](tel:+201118606952)
+- 💻 **GitHub**: [@MostafaEssam2002](https://github.com/MostafaEssam2002)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MostafaEssam2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaEssam2002&layout=compact&theme=tokyonight&hide_border=true" />
+  <i>⚡ "Building scalable, clean, and high-performance software architectures that drive real impact."</i>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaEssam2002&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🎓 Education & Certifications
-
-- 🎓 **B.Sc. Computer Science** — Faculty of Electronic Engineering, Menoufia University (2020–2025) — GPA 3.2
-- 📜 **Full Stack Web Development (PHP Track)** — ITI, Creativa (2024 & 2025)
-- 📜 **JavaScript Training** — YALLA EXPAND (2026)
-- 📜 **Node.js, NestJS, PostgreSQL, GraphQL & Security** (2026)
-
----
-
-### 🌐 Languages
-Arabic (Native) &nbsp;•&nbsp; English (B1)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MostafaEssam2002&style=flat-square&color=2EA0E0" alt="profile views" />
-</p>
-
-<p align="center"><i>📫 Reach me at mostafaessam9511@gmail.com — let's build something great together!</i></p>
