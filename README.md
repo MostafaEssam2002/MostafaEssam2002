@@ -113,10 +113,27 @@ Multilingual (AR/EN, RTL) e-commerce platform with 13+ entities, 50+ APIs, RBAC 
 <summary>📁 More Projects</summary>
 <br>
 
-**Wazifa — Job Board Platform** (`Laravel` `MySQL` `Bootstrap`)
+**[Wazifa — Job Board Platform](https://github.com/MostafaEssam2002/wazifa)** (`Laravel` `MySQL` `Bootstrap`)
 Full-stack recruitment platform connecting employers and candidates with job posting management, resume uploads, application tracking, and an admin approval workflow.
 
 </details>
+
+---
+
+### 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/MostafaEssam2002/Restaurant-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=Restaurant-Website&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/MostafaEssam2002/Feliciano_Restaurant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=Feliciano_Restaurant&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MostafaEssam2002/Global-Weather-News-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=Global-Weather-News-Dashboard&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/MostafaEssam2002/Image_processing_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=Image_processing_project&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MostafaEssam2002/SCRUD_PHP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=SCRUD_PHP&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/MostafaEssam2002/wazifa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaEssam2002&repo=wazifa&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 ---
 
