@@ -1,4 +1,9 @@
-# Hi there, I'm Mustafa Essam 👋
+<div align="left">
+  <a href="https://mustafa-essam.ai.studio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=1200&color=BAC964&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Mustafa+Essam+%F0%9F%91%8B;Full-Stack+Web+Developer;Backend+System+Architect" alt="Typing SVG - Hi there, I'm Mustafa Essam" />
+  </a>
+</div>
+
 ### Full-Stack Web Developer & Backend System Architect
 
 <p align="left">
