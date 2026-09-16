@@ -101,10 +101,10 @@ I am a results-oriented **Full-Stack Web Developer** specializing in **scalable 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MostafaEssam2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=18181b&title_color=bac964&icon_color=bac964&text_color=e4e4e7" alt="Mustafa's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaEssam2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=18181b&title_color=bac964&text_color=e4e4e7" alt="Top Languages" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaEssam2002&theme=tokyonight&hide_border=true&background=18181b&ring=bac964&fire=bac964&currStreakLabel=bac964" alt="GitHub Streak" width="97%" />
