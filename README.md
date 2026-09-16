@@ -117,7 +117,6 @@ I am a results-oriented **Full-Stack Web Developer** specializing in **scalable 
 - 🌐 **Portfolio Website**: [mustafa-essam.ai.studio](https://mustafa-essam.ai.studio/)
 - 💼 **LinkedIn**: [linkedin.com/in/mostafa-essam-384413203](https://www.linkedin.com/in/mostafa-essam-384413203/)
 - 📧 **Direct Email**: [mostafaessam9511@gmail.com](mailto:mostafaessam9511@gmail.com)
-- 📱 **Phone / WhatsApp**: [+20 111 860 6952](tel:+201118606952)
 - 💻 **GitHub**: [@MostafaEssam2002](https://github.com/MostafaEssam2002)
 
 <p align="center">
